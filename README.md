@@ -7,3 +7,5 @@
 5. Open your command prompt/terminal on your machine, or the terminal on an IDE
      -Make sure you have the python library for PostgreSQL installed with: pip install psycopg2
 6. Run using the command "python student_database.py"
+
+https://youtu.be/eSeS5OrNK_Q
